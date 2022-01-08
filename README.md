@@ -4,7 +4,6 @@
 <br>
 
 <hr>
-<br>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center"> Software Engineer </p>
 <p align="center">  
@@ -15,7 +14,6 @@
 <br>
 
 <hr>
-<br>
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
@@ -45,7 +43,6 @@
 <br>
 
 <hr>
-<br>
 <h2 align="center">💬 My Blog Articles</h2>
 <br>
 <p align="center" align='text-align:center'>
@@ -57,7 +54,6 @@
 <br>
 
 <hr>
-<br>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -76,11 +72,9 @@
 <br>
 
 <hr>
-<br>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 <br>
 <hr>
-<br>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
