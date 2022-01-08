@@ -60,8 +60,8 @@
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="www.linkedin.com/in/skaru2002"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href = "skaru2002.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/skaru2002"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href = "https://skaru2002.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>&nbsp;
   <a href="mailto:skaru2002@gmail.com?subject=Hello%20skaru2002,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="mailto:skaru2002@naver.com"><img src="https://img.shields.io/badge/NaverMail-darkgreen?style=for-the-badge&logo=NaverMail&logoColor=white&link=skaru2002@naver.com"/></a>&nbsp;
 </p>
