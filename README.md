@@ -60,15 +60,14 @@
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a target="_blank"href="www.linkedin.com/in/skaru2002"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href = "skaru2002.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>&nbsp;
-  <a href="mailto:skaru2002@gmail.com?subject=Hello%20skaru2002,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:skaru2002@naver.com"><img src="https://img.shields.io/badge/NaverMail-darkgreen?style=for-the-badge&logo=NaverMail&logoColor=white&link=skaru2002@naver.com"/></a>
+  <a href="mailto:skaru2002@gmail.com?subject=Hello%20skaru2002,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="mailto:skaru2002@naver.com"><img src="https://img.shields.io/badge/NaverMail-darkgreen?style=for-the-badge&logo=NaverMail&logoColor=white&link=skaru2002@naver.com"/></a>&nbsp;
 </p>
 <br>
-<br>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskaru2002&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <a href="https://github.com/skaru2002"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskaru2002&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 <br>
 
