@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=skaru2002's_Github&fontSize=70&animation=twinkling)
 <br>
 
@@ -47,11 +49,10 @@
 <h2 align="center">💬 My Blog Articles</h2>
 <br>
 <p align="center" align='text-align:center'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://medium.com/@skaru2002"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
+  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=skaru2002&theme=kakao)](https://skaru1.tistory.com/)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=skaru1&theme=tistory)](https://skaru1.tistory.com/)
 </p>
 <br>
 
@@ -65,8 +66,8 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="https://velog.io/@skaru2002"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@skaru2002"/></a>&nbsp
+  <a href="mailto:skaru2002@naver.com"><img src="https://img.shields.io/badge/NaverMail-d14836?style=flat-square&logo=NaverMail&logoColor=white&link=skaru2002@naver.com"/></a>
 </p>
 <br>
 <p align="center">
@@ -80,6 +81,9 @@
 <br>
 <hr>
 <br>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 <!--
 **skaru2002/skaru2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
