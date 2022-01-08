@@ -73,9 +73,6 @@
 
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-<br>
-<hr>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 <!--
