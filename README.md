@@ -31,40 +31,41 @@
   CSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.
   <br>  -->
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/C%23-1572B6?style=for-the-badge&logo=c#&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp&logoColor=white"/></a>&nbsp;
+  <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/aws-%333664?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Mysql-red?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/aws-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp;
   <br>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/vue3.js%20-%2300D9FF.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/socket.io%20-%A8B9CC?&style=for-the-badge&logo=socket.io&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/socket.io%20-white.svg?&style=for-the-badge&logo=socket.io&logoColor=black" />&nbsp;  
 </p>
 <br>
 
 <hr>
 <h2 align="center">💬 My Blog Articles</h2>
-<br>
-<p align="center" align='text-align:center'>
-  <a target="_blank"href="https://medium.com/@skaru2002"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<p align="center" align='center'>
+  <a href = "https://github.com/skaru2002"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  </a>&nbsp;
+  <a href = "https://skaru1.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-orange.svg?&style=for-the-badge&logo=tistory&logoColor=black"/></a>&nbsp;  
 
-  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=skaru2002&theme=kakao)](https://skaru1.tistory.com/)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=skaru1&theme=tistory)](https://skaru1.tistory.com/)
+  <!-- [![Tistory's Badge](https://tistory-readme-stats.vercel.app/api/badge?name=skaru1&theme=kakao)](https://skaru1.tistory.com/) -->
 </p>
+  
+  [![Tistory's Card](https://tistory-readme-stats.vercel.app/api?name=skaru1&theme=tistory)](https://skaru1.tistory.com/)
+  [![Tistory's Card](https://tistory-readme-stats.vercel.app/api?name=skaru1&postId=9&theme=tistory)](https://skaru1.tistory.com/9)
 <br>
 
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href = "skaru2002.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>&nbsp;
+  <a href="mailto:skaru2002@gmail.com?subject=Hello%20skaru2002,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:skaru2002@naver.com"><img src="https://img.shields.io/badge/NaverMail-darkgreen?style=for-the-badge&logo=NaverMail&logoColor=white&link=skaru2002@naver.com"/></a>
 </p>
 <br>
-<p align="center">
-  <a href="https://velog.io/@skaru2002"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@skaru2002"/></a>&nbsp
-  <a href="mailto:skaru2002@naver.com"><img src="https://img.shields.io/badge/NaverMail-d14836?style=flat-square&logo=NaverMail&logoColor=white&link=skaru2002@naver.com"/></a>
-</p>
 <br>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskaru2002&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
